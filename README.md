@@ -1,2 +1,7 @@
 # Babylon
-A repo on how to run and test a node and validator in the Babylon chain
+
+## Updates and required packages
+
+
+sudo apt update
+sudo apt-get install git curl build-essential make jq gcc snapd chrony lz4 tmux unzip bc -y
